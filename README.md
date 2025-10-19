@@ -112,9 +112,8 @@ This project is for educational/portfolio purposes. Pokémon and all related pro
 
 ## 👨‍💻 Author
 
-**Your Name** - Full Stack Developer
-- GitHub: [@your-username](https://github.com/your-username)
-- Portfolio: [your-portfolio-link]
+**Sanveed Faisal** - Full Stack Developer
+- GitHub: [@Qiiks](https://github.com/Qiiks)
 
 ---
 
